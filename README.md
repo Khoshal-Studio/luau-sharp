@@ -1,2 +1,2 @@
-# luau-class
-A Luau module that provides a CSharp-like class syntax
+# LuauSharp, aka L#
+A comprehensive OOP (object-oriented programming) framework built in Luau, inspired C#, Java, and TypeScript.
