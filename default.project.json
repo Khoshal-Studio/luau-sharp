@@ -10,6 +10,11 @@
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "$ignoreUnknownInstances": true,
+      "$path": "src/StarterGui"
+    },
+    "ServerScriptService" : {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
       "$path": "src/ServerScriptService"
     }
   }
