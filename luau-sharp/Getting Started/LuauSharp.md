@@ -1,0 +1,2 @@
+# Overview
+LuauSharp is a multi-paradigm general purpose language derived from Luau that transpiles to Luau and introduces modern programming features such as native objects and classes, async/await, try catch, switch case, constant variables, etc. It is not backwards compatible with Luau.

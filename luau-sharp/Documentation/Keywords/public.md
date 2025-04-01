@@ -1,0 +1,2 @@
+# Definition
+The `public` keyword is used to define a public member in a class, namespace, interface, or property. Public members are accessible from outside the class or namespace in which they are defined. It implements the `IAccessModifier` interface.
